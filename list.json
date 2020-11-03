@@ -1,5 +1,5 @@
 {
-    "name": "Monet Default List",
+    "name": "Monet",
     "logoURI": "https://tokens.monet.run/monet-interface.png",
     "keywords": [
         "monnet",
@@ -11,7 +11,15 @@
             "chainId": 5,
             "address": "0xA8FE9827aa3BEA9BA008430e1A6C7BCfa53305C4",
             "name": "Monet",
-            "symbol": "MONET",
+            "symbol": "MNT",
+            "decimals": 18,
+            "logoURI": "https://tokens.monet.run/monet-interface.png"
+        },
+        {
+            "chainId": 5,
+            "address": "0xa37f12e0d6fec1270a10a03be8a1d06663ac2647",
+            "name": "Monet Lucky",
+            "symbol": "L-MNT",
             "decimals": 18,
             "logoURI": "https://tokens.monet.run/monet-interface.png"
         }
