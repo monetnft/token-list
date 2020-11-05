@@ -22,11 +22,19 @@
             "symbol": "MNT",
             "decimals": 18,
             "logoURI": "https://tokens.monet.run/monet-interface.png"
+        },
+        {
+            "chainId": 5,
+            "address": "0xe802376580c10fe23f027e1e19ed9d54d4c9311e",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://cn.etherscan.com/token/images/tether_32.png"
         }
     ],
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     }
 }
